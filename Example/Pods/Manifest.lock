@@ -1,0 +1,16 @@
+PODS:
+  - PodTest (0.1.0)
+
+DEPENDENCIES:
+  - PodTest (from `../`)
+
+EXTERNAL SOURCES:
+  PodTest:
+    :path: ../
+
+SPEC CHECKSUMS:
+  PodTest: 7fc7f3000cbc1fedff71f7edf8b0197f3449bbea
+
+PODFILE CHECKSUM: 09838801336d37dd6198d574707228cf70743751
+
+COCOAPODS: 1.2.0.rc.1
